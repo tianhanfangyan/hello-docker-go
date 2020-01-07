@@ -17,4 +17,4 @@ docker run -d -P --restart=always dystargate/hello-docker-go:{$tagId}
 
 ## docker hub
 
-see [the docker hub](https://hub.docker.com/r/dystargate/hello-docker-go/).
+see [the docker hub](https://hub.docker.com/repository/docker/dystargate/hello-docker-go/).
